@@ -29,7 +29,7 @@ I'm passionate about technology, coding, and building impactful projects.
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ashwani-199/)
 - [Email](mailto:ashwani844959@gmail.com)
-- [YouTube]([https://www.youtube.com/@aspireEd_python]) 
+- [YouTube](https://www.youtube.com/@aspireEd_python) 
 
 ---
 
